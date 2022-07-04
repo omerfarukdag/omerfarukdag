@@ -7,4 +7,4 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,react,php,mysql,laravel,nodejs,mongodb,expressjs&perline=6)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,firebase,php,mysql,laravel,nodejs,mongodb,expressjs&perline=6)](#)
