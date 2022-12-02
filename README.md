@@ -2,7 +2,7 @@
 
 > 🔭 I’m currently working on CMS.
 
-> 🌱 I’m currently learning **CSS**, **React** and **Next.js**.
+> 🌱 I’m currently learning **React.js** and **CSS**.
 
 > 💬 Ask me about **PHP**, **Laravel**, **JavaScript** and **Node.js**.
 
